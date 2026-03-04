@@ -1,16 +1,17 @@
-## Hi there 👋
+Software developer | Full Stack | Working on side projects
 
-<!--
-**zdschade/zdschade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on startup projects at CIE
+- ⚒️ Best at Typescript/Javascript, Python, Java
+- 🖼️ Frameworks: React, Angular
+- ⚡ Familiar with server infrastructure (Docker, Jenkins, Apache software) and administration
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+
+<summary>Other projects (not in public repos)</summary>
+
+- Daily browser games:
+  - [Packle](https://packle.top): Packing problem estimation game
+  - [Periodica](https://periodica.xyz): Guess words with only elemental symbols
+
+</details>
