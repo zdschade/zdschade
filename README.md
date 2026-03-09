@@ -5,13 +5,9 @@ Software developer | Full Stack | Working on side projects
 - 🖼️ Frameworks: React, Angular
 - ⚡ Familiar with server infrastructure (Docker, Jenkins, Apache software) and administration
 
+ 
 
-<details>
-
-<summary>Other projects (not in public repos)</summary>
-
+Other projects (not in public repos):
 - Daily browser games:
   - [Packle](https://packle.top): Packing problem estimation game
   - [Periodica](https://periodica.xyz): Guess words with only elemental symbols
-
-</details>
